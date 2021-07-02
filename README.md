@@ -1,0 +1,2 @@
+# Activist Toolkit Sample Project
+This is my activist toolkit project that highlights the period poverty epidemic. Menstrual Inequity is often overlooked by society, so I decided that this project was a great opportunity for me to bring attention to the matter. With this is mind, this project includes a mission statement, an eye-catching video, some info on how to get involved, and where to donate.
